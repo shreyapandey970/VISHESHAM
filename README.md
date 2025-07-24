@@ -1,3 +1,6 @@
+<img width="1326" height="601" alt="image" src="https://github.com/user-attachments/assets/adb64313-41bd-4a4a-8537-d1108c9e8687" />
+
+
 VISHESHAM – Assistive Speech & Sign Language Platform
 VISHESHAM is an inclusive web application designed to empower specially abled individuals by bridging communication gaps. The platform integrates three core features:
 
